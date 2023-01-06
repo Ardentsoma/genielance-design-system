@@ -1,0 +1,9 @@
+
+:root {
+    --gradientLinearPrimaryColor: linear-gradient(
+          180deg,
+          #d5a3fb 0%,   
+          #47156d 48.4%  
+        )
+        ;    
+}

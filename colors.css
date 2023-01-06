@@ -1,0 +1,20 @@
+
+:root {
+    --colorSecondaryContainer: #afffce;    
+    /* primary color */
+    --colorMdSysColorPrimary: #713f97;    
+    /* primary container */
+    --colorMdSysColorPrimaryContainer: #d5a3fb;    
+    --colorMdSysColorOnprimaryContainer: #47156d;    
+    --colorMdSysColorOnPrimary: #ffffff;    
+    --colorMdSysColorSecondary: #5dca7c;    
+    --colorMdSysColorOnSecondaryContainer: #ffffff;    
+    --colorMdSysColorSecondaryContainer: #218e40;    
+    --colorMdSysColorBackground: #eaf3ed;    
+    --colorMdSysColorSurface: #eaf3ed;    
+    --colorMdSysColorOnSurface: #222b25;    
+    --colorMdSysColorSurfaceVaraint: #c1bbc5;    
+    --colorMdSysColorOnSurfaceVaraint: #49434d;    
+    --colorMdSysColorOutline: #716b75;    
+    --colorMdSysColorErrorColor: #b65252;    
+}
