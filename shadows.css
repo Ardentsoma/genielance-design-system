@@ -1,0 +1,6 @@
+
+:root {
+    --shadow16Dp: 0 6px 30px 5px rgba(0,0,0,0.12);  
+    --shadow12Dp: 0 5px 22px 4px rgba(0,0,0,0.12);  
+    --shadow24Dp: 0 9px 46px 8px rgba(0,0,0,0.12);  
+}
